@@ -27,17 +27,17 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Wisconsin Madison"
   employer         : "University of Wisconsin-Madison"
-  uri              : # URL
+  uri              : "https://github.com/Hyh2001"
   email            : "yuhao.huang@wisc.edu & huangyuhaowork@outlook.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # impactstory      : # URL
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
