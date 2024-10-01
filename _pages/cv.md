@@ -11,27 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in Mechanical Engineering, University of Wisconsin-Madison, 2025 (expected)
+* B.S. in Electromechanical Engineering, University of Macau, 2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2023 - July 2024: Design of planar bipedal robot STRIDE
+  * Duties includes: Mechanical design and 3D printing. Embedded system programming for motor driving and sensors reading. Implementation of H-LIP based stepping controller and inverse kinematics based whole body control. 
+  * Paper: 
+  * Supervisor: Prof. Xiaobin Xiong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 - Sept 2024: iWalker
+  * Duties included: Implementation of Global position tracking H-LIP and the corresponding MPC controller for footstep planning. 
+  * Paper:
+  * Supervisor: Prof. Xiaobin Xiong, Prof. Chen Wang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2024 - Sept 2024: Reference-steering with DDPC applied to PogoX
+  * Duties included: Mathematical derivation of the reference-steering control framework. Implementation of slacked PEM-MPC formulation of DDPC in C++ which includes a self-written versatile codebase for formulating QP and convex MPC problems.   
+  * Paper:
+  * Supervisor: Prof. Xiaobin Xiong
   
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 Skills
 ======
 * Skill 1
@@ -41,17 +50,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +62,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
