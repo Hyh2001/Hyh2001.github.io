@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Wisconsin Madison"
   employer         : "University of Wisconsin-Madison"
-  uri              : "https://github.com/Hyh2001"
+  uri              : "https://Hyh2001.github.io"
   email            : "yuhao.huang@wisc.edu & huangyuhaowork@outlook.com" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Hyh2001"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
