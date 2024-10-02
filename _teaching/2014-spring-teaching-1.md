@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "2023 Fall ME231 Geometric Modeling for Design and Manufacturing"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-me231
+venue: "Mechanical Engineering"
+date: 2023-09-04
+location: "Madison"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this class, I teach students basic hand sketching techniques for mechanical design and the fundamentals of SolidWorks. I lead lab sessions and am responsible for grading homework and final projects.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
