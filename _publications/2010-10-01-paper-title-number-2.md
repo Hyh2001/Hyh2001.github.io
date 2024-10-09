@@ -2,11 +2,11 @@
 title: "STRIDE: An Open-Source, Low-Cost, and Versatile Bipedal Robot Platform
 for Research and Education"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the design of a planar bipedal robotic platform STRIDE for education and research purposes'
 date: 2024-11-22 (expected) 
-venue: 'Conference 1'
+venue: 'IEEE-RAS International Conference on Humanoid Robots (Humanoids)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2407.02648'
 citation: 'Huang, Y.*, Zeng, Y.*, and Xiong, X. "STRIDE: An Open-Source, Low-Cost, and Versatile Bipedal Robot Platform for Research and Education." IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2024. (* Denotes equal contribution)'
