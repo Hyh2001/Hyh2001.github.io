@@ -2,7 +2,7 @@
 title: "STRIDE: An Open-Source, Low-Cost, and Versatile Bipedal Robot Platform
 for Research and Education"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the design of a planar bipedal robotic platform STRIDE for education and research purposes'
 date: 2024-11-22 (expected) 
