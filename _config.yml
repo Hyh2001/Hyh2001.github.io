@@ -21,7 +21,7 @@ repository               : "Hyh2001/Hyh2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Yuhao Huang"
   pronouns         : # example: "she/her"  
   bio              : "UW-Madison Master Student in Mechanical Engineering studying legged robot control and design"
