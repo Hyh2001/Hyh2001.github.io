@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Reference-Steering via Data-Driven Predictive Control for Hyper-Accurate Robotic Flying-Hopping Locomotion"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+excerpt: 'This paper proposed a reference-steering framework based on data driven predictive control that can account for model mismatch and enhance trajectory tracking performance based on previous input-output trajectories'
+date: 2024-09-15
+venue: 'under review'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
