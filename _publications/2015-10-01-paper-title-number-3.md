@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the design of a visual planning framework for bipedal robot step planning'
 date: 2025-05-20 (expected)
 venue: 'under review'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2409.18361'
 citation: 'Lin, X., Huang, Y., et al. "iWalker:
             Imperative Visual Planning for Walking Humanoid Robot." IEEE International Conference on Robotics and Automation (under review), 2024.'
