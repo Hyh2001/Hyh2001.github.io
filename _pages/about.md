@@ -12,7 +12,7 @@ Hi, my name is Yuhao Huang. I am a **master student major in mechanical engineer
 Prior to joining the WELL Lab, I worked as an undergraduate researcher in the Soft Sensors-Actuators-Robots Lab under the supervision of Prof. Junwen Zhong, where I designed and implemented novel **self-powered piezoelectret sensor technologies** for industrial applications.
 
 Apart from research, I enjoy calligraphy, basketball, and engaging in spiritual practices. 
-<div style="display: flex; justify-content: space-around; gap: 30em;">
+<div style="display: flex; justify-content: space-around; gap: 3em;">
   <iframe width="420" height="120" src="https://www.youtube.com/embed/wJkxvUG6msU?si=N3r2gfX1FKPUxQ2N" frameborder="0"> </iframe> <!--  style="margin-right: 30em;" -->
   <iframe width="420" height="120" src="https://www.youtube.com/embed/FPV74PznzTU?si=jdNLXy1T_8Xy0t03" frameborder="0"> </iframe>
 </div>
