@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper proposed a reference-steering framework based on data driven predictive control that can account for model mismatch and enhance trajectory tracking performance based on previous input-output trajectories'
 date: 2025-05-20 (expected)
 venue: 'under review'
-paperurl: 'http://academicpages.github.io/files/Referece-Steering.pdf'
+paperurl: 'http://Hyh2001/Hyh2001.github.io/files/Referece-Steering.pdf'
 citation: 'Zeng, Y.*, Huang, Y.* and Xiong, X. "Reference-Steering via Data-Driven Predictive Control for
             Hyper-Accurate Robotic Flying-Hopping Locomotion." submitted to IEEE International Conference on Robotics and Automation, 2024. (* Denotes equal contribution)'
 ---
