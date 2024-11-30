@@ -7,15 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<embed src="{{ site.baseurl }}/files/Yuhao_s_Resume.pdf" width="600" height="700" type='application/pdf'>
+
+<!-- {% include base_path %}
 
 Education
-======
+====== -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. in Mechanical Engineering, University of Wisconsin-Madison, 2025 (expected)
-* B.S. in Electromechanical Engineering, University of Macau, 2023
+<!-- * M.S. in Mechanical Engineering, University of Wisconsin-Madison, 2025 (expected)
+* B.S. in Electromechanical Engineering, University of Macau, 2023 -->
 
-Research experience
+<!-- Research experience
 ======
 * July 2023 - July 2024: Design of planar bipedal robot STRIDE
   * Duties includes: Mechanical design and 3D printing. Embedded system programming for motor driving and sensors reading. Implementation of H-LIP based stepping controller and inverse kinematics based whole body control. 
@@ -31,10 +33,10 @@ Research experience
   * Duties included: Mathematical derivation of the reference-steering control framework. Implementation of slacked PEM-MPC formulation of DDPC in C++ which includes a self-written versatile codebase for formulating QP and convex MPC problems.   
   * Paper:
   * Supervisor: Prof. Xiaobin Xiong
-  
+   -->
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -48,7 +50,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 <!-- Talks
 ======
@@ -56,11 +58,11 @@ Skills
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
