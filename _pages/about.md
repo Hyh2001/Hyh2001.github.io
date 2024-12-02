@@ -16,7 +16,7 @@ Apart from research, I enjoy calligraphy, basketball, and engaging in spiritual 
   <iframe width="420" height="120" src="https://www.youtube.com/embed/wJkxvUG6msU?si=N3r2gfX1FKPUxQ2N" frameborder="0"> </iframe> <!--  style="margin-right: 30em;" -->
   <iframe width="420" height="120" src="https://www.youtube.com/embed/FPV74PznzTU?si=jdNLXy1T_8Xy0t03" frameborder="0"> </iframe>
 </div>
-<div style="display: flex; justify-content: space-around; gap: 3em; margin-top: 2em;">
+<div style="display: flex; justify-content: center; gap: 3em; margin-top: 2em;">
   <iframe width="420" height="120" src="https://www.youtube.com/embed/YM8VbjKEK9A?si=RacjQ1XVqUfNiYEe" frameborder="0"> </iframe> <!--  style="margin-right: 30em;" -->
 </div>
 
