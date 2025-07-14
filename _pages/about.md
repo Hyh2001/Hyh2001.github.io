@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yuhao Huang. I am a **master student major in mechanical engineering at the University of Wisconsin-Madison**, specializing in robotics. Before joinning UW-Madison, I earned my Bachelor of Science (BS) in Electromechanical Engineering from the University of Macau. I am a member of Wisconsin Expedious Legged Locomotion (WELL) lab under the supervision of Prof. Xiaobin Xiong. My research focuses on the **design and control of legged robots**. Specifically, I am interested in applying formal methods from nonlinear control theory and data-driven control theory to synthesize robust yet versatile locomotion behaviors. 
+Hi, my name is Yuhao Huang. I am an incoming **PHD student major in Mechanical Engineering and Material Science at Duke University**, specializing in robotics under the supervision of Prof. Boyuan Chen. 
 
-Prior to joining the WELL Lab, I worked as an undergraduate researcher in the Soft Sensors-Actuators-Robots Lab under the supervision of Prof. Junwen Zhong, where I designed and implemented novel **self-powered piezoelectret sensor technologies** for industrial applications.
+Before joining Duke, I earned my Master of Science (MS) in Mechanical Engineering from the University of Wisconsin-Madison and Bachelor of Science (BS) in Electromechanical Engineering from the University of Macau. During the journey of my master, I am a member of Wisconsin Expedious LeggedAI (WELL) lab under the supervision of Prof. Xiaobin Xiong. My research focuses on the **design and control of legged robots**. Specifically, I am interested in applying formal methods from nonlinear control theory and data-driven control theory to synthesize robust yet versatile locomotion behaviors. Prior to joining the WELL Lab, I worked as an undergraduate researcher in the Soft Sensors-Actuators-Robots Lab under the supervision of Prof. Junwen Zhong, where I designed and implemented novel **self-powered piezoelectret sensor technologies** for industrial applications.
 
 Apart from research, I enjoy calligraphy, basketball, and engaging in spiritual practices. 
 <div style="display: flex; justify-content: space-around; gap: 3em;">
