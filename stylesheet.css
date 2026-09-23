@@ -140,3 +140,25 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.research-image img {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 540px) {
+  .research-list tr {
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  .research-list .research-image,
+  .research-list .research-details {
+    display: block;
+    box-sizing: border-box;
+    width: 100% !important;
+    padding: 8px 16px !important;
+  }
+}
